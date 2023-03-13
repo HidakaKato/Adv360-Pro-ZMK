@@ -49,7 +49,7 @@
 
         layer_keypad {
             bindings = <
-          &kp ESC        &kp N1  &kp N2    &kp N3     &kp N4  &kp N5               &tog 0                                                                                        &none   &none  &kp KP_CLEAR  &kp KP_EQUAL  &kp KP_DIVIDE  &kp KP_MULTIPLY  &kp BACKSPACE
+          &kp ESC        &kp N1  &kp N2    &kp N3     &kp N4  &kp N5               &trans                                                                                        &none   &none  &kp KP_CLEAR  &kp KP_EQUAL  &kp KP_DIVIDE  &kp KP_MULTIPLY  &kp BACKSPACE
           &kp TAB         &kp Q   &kp W     &kp E      &kp R   &kp T            &kp EQUAL                                                                                        &none   &none     &kp KP_N7     &kp KP_N8      &kp KP_N9     &kp KP_MINUS       &kp BSLH
  &kp LEFT_CONTROL         &kp A   &kp S     &kp D      &kp F   &kp G            &kp GRAVE  &kp LEFT_COMMAND  &kp LEFT_ALT                  &kp RIGHT_ALT  &kp RIGHT_COMMAND      &none   &none     &kp KP_N4     &kp KP_N5      &kp KP_N6      &kp KP_PLUS      &kp ENTER
         &kp LSHFT         &kp Z   &kp X     &kp C      &kp V   &kp B                &none             &none      &kp HOME   &none   &none      &kp PG_UP              &none      &none   &none     &kp KP_N1     &kp KP_N2      &kp KP_N3     &kp KP_ENTER      &kp RSHFT
